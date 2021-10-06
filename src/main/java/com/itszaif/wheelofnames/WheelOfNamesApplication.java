@@ -1,13 +1,13 @@
-package com.itszaif.wheenofnames;
+package com.itszaif.wheelofnames;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WheenofnamesApplication {
+public class WheelOfNamesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WheenofnamesApplication.class, args);
+		SpringApplication.run(WheelOfNamesApplication.class, args);
 	}
 
 }
